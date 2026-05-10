@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../mukerem"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Users/HP/Desktop/upload"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project"
+	}
+}
